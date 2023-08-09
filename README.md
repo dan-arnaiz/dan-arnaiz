@@ -12,8 +12,8 @@ I'm a passionate web developer with a keen interest in crafting visually appeali
 
 - I'm constantly honing my skills in HTML, CSS, JavaScript, React.js, and Next.js for Web Development.
 - Exploring back-end technologies like Node.js and Express to create full-stack applications.
-- Building up my data science and data engineering skills.
-- I am making my way to the Cloud.
+- Sharpening my expertise in data science and data engineering.
+- Embarking on a journey into the world of Cloud technologies.
 
 ## 💼 My Projects
 
