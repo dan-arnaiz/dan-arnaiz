@@ -6,31 +6,30 @@ I'm a passionate web developer with a keen interest in crafting visually appeali
 
 - Currently, I'm working on building my personal portfolio website to showcase my projects and skills.
 - Exploring the latest front-end frameworks and tools to stay up-to-date with industry trends.
+- Also working as a Data Migration Specialist for a SaaS company.
 
 ## 🌱 What I'm Learning
 
-- I'm constantly honing my skills in HTML, CSS, JavaScript, and React.js.
+- I'm constantly honing my skills in HTML, CSS, JavaScript, React.js, and Next.js for Web Development.
 - Exploring back-end technologies like Node.js and Express to create full-stack applications.
+- Building up my data science and data engineering skills.
+- I am making my way to the Cloud.
 
 ## 💼 My Projects
 
 Here are a few highlights from my project portfolio:
 
-1. **Project Name:** Brief description and link to the project repository or deployed website.
-2. **Project Name:** Brief description and link to the project repository or deployed website.
-3. ...
+1. --
+2. --
+3. --
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/yourusername)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
+- LinkedIn: https://www.linkedin.com/in/danarnaiz/
+- Twitter: --
+- Portfolio: --
 
 Feel free to reach out if you're interested in collaborating or just want to say hi!
-
-## 🚀 Fun Fact
-
-I believe that the best code is not just functional but also a work of art. Just like an artist paints a canvas, I craft elegant and efficient code to bring digital experiences to life.
 
 Thanks for stopping by, and I look forward to connecting with you!
 
