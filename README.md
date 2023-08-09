@@ -6,7 +6,7 @@ I'm a passionate web developer with a keen interest in crafting visually appeali
 
 - Currently, I'm working on building my personal portfolio website to showcase my projects and skills.
 - Exploring the latest front-end frameworks and tools to stay up-to-date with industry trends.
-- Also working as a Data Migration Specialist for a SaaS company.
+- Also working as a Data Migration Specialist for a SaaS/UCaaS company.
 
 ## 🌱 What I'm Learning
 
