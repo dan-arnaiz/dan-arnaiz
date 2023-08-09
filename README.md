@@ -19,17 +19,17 @@ I'm a passionate web developer with a keen interest in crafting visually appeali
 
 Here are a few highlights from my project portfolio:
 
-🚧🚧🚧
+🚧 Under construction! 🚧
 1. --
 2. --
 3. --
-🚧🚧🚧
+
 
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/danarnaiz/
-- Twitter: 🚧🚧🚧
-- Portfolio: 🚧🚧🚧
+- Twitter: 🚧 Under construction! 🚧
+- Portfolio: 🚧 Under construction! 🚧👷‍♂️
 
 Feel free to reach out if you're interested in collaborating or just want to say hi!
 
