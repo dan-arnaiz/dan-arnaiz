@@ -25,7 +25,7 @@ Here are a few highlights from my project portfolio:
 3. --
 
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
 - LinkedIn: https://www.linkedin.com/in/danarnaiz/
 - Twitter: 🚧 Under construction! 🚧
