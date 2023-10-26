@@ -13,20 +13,11 @@ I'm a passionate web developer with a keen interest in crafting visually appeali
 - I'm constantly honing my skills in HTML, CSS, JavaScript, React.js, and Next.js for Web Development.
 - Exploring back-end technologies like Node.js and Express to create full-stack applications.
 - Sharpening my expertise in data science and data engineering.
-- Embarking on a journey into the world of Cloud technologies.
 
 ## 💼 My Projects
-
-Here are a few highlights from my project portfolio:
-
 🚧 Under construction! 🚧
-1. --
-2. --
-3. --
-
 
 ## 📫 Let's Connect!
-
 - LinkedIn: https://www.linkedin.com/in/danarnaiz/
 - Twitter: 🚧 Under construction! 🚧
 - Portfolio: 🚧 Under construction! 🚧👷‍♂️
