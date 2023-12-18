@@ -1,7 +1,5 @@
 # dan-arnaiz 🪐
 
-data freak. web geek. engineering meek.
-
 ## 🔭 In progress
 
 - Currently, I'm working on building my personal portfolio website to showcase my projects and skills.
@@ -25,4 +23,3 @@ Under construction. 🚧
 Feel free to reach out if you're interested in collaborating or just want to say hi!
 
 Thanks for stopping by, and I look forward to connecting with you!
-- conflicted contradiction.
