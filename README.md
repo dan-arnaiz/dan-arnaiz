@@ -18,7 +18,7 @@ Under construction. 🚧
 ## 📫 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/danarnaiz/
 - Twitter:  Under construction! 🚧
-- Portfolio: Under construction! 🚧👷‍♂️
+- Portfolio: danarnaiz.com
 
 Feel free to reach out if you're interested in collaborating or just want to say hi!
 
