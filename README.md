@@ -10,7 +10,7 @@
 
 - I'm constantly honing my skills in HTML, CSS, JavaScript, React.js, and Next.js for **Front-end Web Development**.
 - Exploring **back-end technologies** like Node.js and Express to create full-stack applications.
--** Data Science & Data Engineering**
+- **Data Science & Data Engineering**
 
 ## 💼 My Projects
 Under construction. 🚧
