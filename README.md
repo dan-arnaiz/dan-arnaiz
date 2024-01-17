@@ -8,9 +8,9 @@
 
 ## 🌱 Growing
 
-- I'm constantly honing my skills in HTML, CSS, JavaScript, React.js, and Next.js for Web Development.
-- Exploring back-end technologies like Node.js and Express to create full-stack applications.
-- Sharpening my expertise in data science and data engineering.
+- I'm constantly honing my skills in HTML, CSS, JavaScript, React.js, and Next.js for **Front-end Web Development**.
+- Exploring **back-end technologies** like Node.js and Express to create full-stack applications.
+-** Data Science & Data Engineering**
 
 ## 💼 My Projects
 Under construction. 🚧
@@ -21,5 +21,4 @@ Under construction. 🚧
 - Portfolio: [https://www.danarnaiz.com](http://www.danarnaiz.com/)
 
 Feel free to reach out if you're interested in collaborating or just want to say hi!
-
 Thanks for stopping by, and I look forward to connecting with you!
