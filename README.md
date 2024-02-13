@@ -1,21 +1,5 @@
-# dan-arnaiz 🪐
+# dan-arnaiz 
 
-## 🔭 In progress
-
-- Currently, I'm working on building my personal portfolio website to showcase my projects and skills.
-- Exploring the latest front-end frameworks and tools to stay up-to-date with industry trends.
-- Also working as a Data Migration Specialist for a SaaS/UCaaS company.
-
-## 🌱 Growing
-
-- I'm constantly honing my skills in HTML, CSS, JavaScript, React.js, and Next.js for **Front-end Web Development**.
-- Exploring **back-end technologies** like Node.js and Express to create full-stack applications.
-- **Data Science & Data Engineering**
-
-## 💼 My Projects
-Under construction. 🚧
-
-## 📫 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/danarnaiz/
 - Twitter:  Under construction! 🚧
 - Portfolio: [https://www.danarnaiz.com](http://www.danarnaiz.com/)
